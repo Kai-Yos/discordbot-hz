@@ -1,4 +1,11 @@
 {
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "discord_bot_hz_projet_Kai-Yos",
+  "main": "main.js",
+  "repository": "https://github.com/Kai-Yos/discordbot-hz.git",
+  "author": "Kai-Yos <gamerxremagmc@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "discordjs/discord.js"
   }
